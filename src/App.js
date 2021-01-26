@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 const App = () => {
-  const state = useState()
+  // const state = useState()
 
   const [Count, setCount] = useState(0)
 
